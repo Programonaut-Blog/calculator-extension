@@ -1,21 +1,3 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Calculator Extension
+# Build A Chrome Extension
 
-My Chrome Extension
-
-## Features
-
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
-
----
-
-This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
-
+This is the repository for the blog post you can find [here]([<link>](https://www.programonaut.com/how-to-build-a-chrome-extension-step-by-step-with-example/)). In it you will learn how to build a calculator chrome extension. 
